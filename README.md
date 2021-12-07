@@ -1,1 +1,1 @@
-# ninjasz.github.io
+# 笔记
